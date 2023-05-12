@@ -6,5 +6,6 @@
  
 ![LIBROS](https://github.com/FredyKwa83/M.desarrollo/assets/133055456/29c7d794-3f73-4d05-9539-bd430b7bb187)
  <p align="left">
-   <img src="https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green">
-   </p>
+   <h4 align="center">
+:construction: Proyecto en construcción :construction:
+</h4>
