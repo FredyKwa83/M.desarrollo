@@ -14,4 +14,4 @@ console.log("su edad es: " +  edad);
 console.log("su numero de celular es: " +  celular);
 console.log("Eres socio: " +  afiliacion);
 
-
+console.log(3)
