@@ -411,8 +411,8 @@ https://librosenlinea.co/
 ## ENLACE DEL TABLERO DE TRABAJO:
 
 [👉 MI TRELLO ✌](https://trello.com/b/SREkmLoE/agencia)
-
-# Grup 7 Curso de Programacion Web Full Stack
+#  Grupo 7 Curso de Progracion Web Full Stack
+    
 ## Nombre del Sitio: Arcolbooks
 
 ## Descripción del Sitio:
