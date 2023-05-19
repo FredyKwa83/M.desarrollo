@@ -412,7 +412,7 @@ https://librosenlinea.co/
 
 [👉 MI TRELLO ✌](https://trello.com/b/SREkmLoE/agencia)
 
-###  Grup 7  Curso Programacion Web Full Stack
+# Grup 7 Curso de Programacion Web Full Stack
 ## Nombre del Sitio: Arcolbooks
 
 ## Descripción del Sitio:
